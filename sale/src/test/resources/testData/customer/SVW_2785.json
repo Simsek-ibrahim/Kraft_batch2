@@ -1,0 +1,29 @@
+{
+  "customerGeneral": {
+    "customerTypeEnum": "PRIVATE",
+    "name": "New Test customer",
+    "email": "newtestcustomer@example.com",
+    "company": "Test GmbH",
+    "phone": "017645289657",
+    "mobile": "017645289657",
+    "fax": "",
+    "taxNumber": "",
+    "vatID": ""
+  },
+  "bank": {
+    "bankName": "Test Bank AG",
+    "iban": "DE17523612123565897845",
+    "bic": "WELADED1MWK"
+  },
+  "address": {
+    "addressTypeEnum": "INVOICE",
+    "salutationTypeEnum": "MR",
+    "name": "Testing name",
+    "company": "Test GmbH",
+    "streetAndNumber": "Test street 112",
+    "addressSupplement": "",
+    "postCode": "44568",
+    "location": "NRW",
+    "country": "Germany"
+  }
+}
